@@ -1,0 +1,286 @@
+* {
+     text-align: center;
+}
+
+header {
+    padding-bottom: 1%;
+}
+
+body {
+    background-color: #dfffe6;
+}
+
+nav {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: playfair display, sans-serif;
+    font-weight: bold;
+}
+
+nav ul {
+    background-color: #7fd074;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 1.5vw;
+}
+
+nav a{
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+nav a:hover {
+    background-color: #5b9953;
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+h1 {
+    font-size: 2vw;
+}
+
+h2 {
+    font-size: 1.7vw;
+}
+
+h3 {
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+footer {
+    margin-top: 15%;
+}
+
+.even {
+    background-color: #b2ecbf;
+}
+
+
+
+/* Index-sidan */
+button {
+    cursor: pointer;
+    background-color: #1eae5f;
+    border: none;
+    padding: 1vw 2vw;
+    border-radius: 8em;
+    box-shadow: 0 5px 15px #193047;
+    margin: 15px 10px;
+    font-size: 1.5vw;
+}
+
+button:hover {
+    background: #158146;
+}
+
+
+.txt {
+    font-size: 1.5vw;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    font-size: 1.2vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#first {
+    margin-top: 5%;
+}
+
+.example {
+    margin-bottom: 0.2em;
+    font-size: 1.5vw;
+}
+
+
+/* Treatments-sidan */
+table .treat {
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+#care {
+    margin-top: 5%;
+}
+
+
+@media only screen and (max-width: 414px) {
+   .logo {
+    width: 50%;
+   }
+
+   nav {
+    width: 90%;
+   }
+
+   nav ul {
+    text-align: center;
+   }
+
+    nav li {
+        font-size: 3vw;
+    }
+
+    nav a{
+        margin-left: 5px;
+        margin-right: 5px;
+    } 
+
+    .txt {
+        font-size: 3vw;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    h1 {
+        font-size: 4.4vw;
+    }
+
+    h2 {
+        font-size: 3.8vw;
+    }
+
+
+    /* Index-sidan */
+
+    button {
+        padding: 2vw 3vw;
+        font-size: 3vw;
+    }
+
+    table {
+        font-size: 3vw;
+    }
+    
+    .example {
+        font-size: 2.5vw;
+    }
+
+    .pricex {
+        width: 70%;
+    }
+
+    /* About-sidan */
+    .me {
+        width: 50%;
+    }
+
+    /* Find-sidan */
+    iframe {
+        width: 80%;
+        height: 200px;
+    }
+
+    .building {
+        width: 80%;
+    }
+    
+    /* Products-sidan */
+   
+    .pics {
+        width: 50%;
+    }
+
+}
+
+
+@media only screen and (max-width: 900px) and (min-width: 300px){
+
+    .logo {
+    width: 50%;
+   }
+
+   nav {
+    width: 100%;
+   }
+
+    nav ul {
+        text-align: left;
+    }
+
+    nav li {
+        font-size: 3.2vw;
+        
+    }
+
+    nav a{
+        padding-right: 1px;
+        padding-left: 5px;
+    }
+
+    .txt {
+        font-size: 3vw;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    h1 {
+        font-size: 4.4vw;
+    }
+
+    h2 {
+        font-size: 3.8vw;
+    }
+
+    /* Index-sidan */
+
+    button {
+        padding: 2vw 3vw;
+        font-size: 3vw;
+    }
+
+    table {
+        font-size: 3vw;
+    }
+    
+    .example {
+        font-size: 2.5vw;
+    }
+
+    .pricex {
+        width: 70%;
+    }
+
+    /* About-sidan */
+    .me {
+        width: 50%;
+    }
+
+    /* Find-sidan */
+    iframe {
+        width: 80%;
+        height: 200px;
+    }
+
+    .building {
+        width: 80%;
+    }
+    
+    /* Products-sidan */
+   
+    .pics {
+        width: 50%;
+    }
+
+    /* Treatments-sidan */
+    #care {
+        width: 50%;
+    }
+
+}
+
+

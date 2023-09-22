@@ -1,0 +1,21 @@
+Utöver de riktlinjer med prio 1 har jag även valt:
+
+*Gör det lätt att ringa upp telefonnummer
+
+Den här är viktig då det är äldre som ska hantera hemsidan. Deras huvudsakliga mål är att ringa och boka en tid. Därför har jag valt att göra knappar med telefonnummer som direkt öppnar telefonens upprigningsmöjlighet.
+
+*Gör det lätt att hitta det viktigaste
+
+Denna har jag valt för att äldre mest troligt inte är så hemma på att surfa på nätet och därför ska den viktigaste informationen vara det första de ser. I detta fall Boka möjligheten
+
+*Länka alla sidor till startsidan
+
+Alla mina "undersidor" kommer vara länkade till startsidan och man kommer kunna ta sig till startsidan genom att trycka på loggan.
+
+*Visa var i en process användaren befinner sig
+
+Jag kommer ha små pilar i nav-fältet för att man snabbt och enkelt ska kunna se på vilken av de flikarna man är
+
+*Gör tydliga användbara knappar
+
+Två stora och tydliga knappar kommer finnas direkt på startsidan. Dessa kommer inte gå att missa.

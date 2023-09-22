@@ -1,0 +1,68 @@
+Krav för C eller högre
+
+
+
+1 . Mobilanpassning
+
+Ditt projekt fungerar på mobila enheter
+Testa detta via Chrome dev tools och Mozilla addon Web developer tools
+Olika metoder för mobilanpassning
+HTML Responsive Web Design
+
+Responsive Web Design - Introduction
+
+Responsive Web Design - The Viewport
+
+Responsive Web Design - Media Queries
+
+Responsive Web Design - Images
+
+How To Create Responsive Images
+
+Responsive Web Design - Videos
+
+Responsive Text
+
+CSS units
+
+CSS Flexbox
+
+A Complete Guide to Flexbox
+
+
+
+2 . Webbriktlinjer
+
+Utöver de riktlinjer som nämnts som grund behöver du följa riktlinjer för mobilanpassning under prioritetsnivå 1.
+Tydlighet
+Användarvänlighet
+
+
+3 . Layout
+
+Använda HTML5 taggar för layout
+Se kapitel HTML5 Layout i kursboken
+
+
+4 . Navigering
+
+Tydlig
+Lättanvänd
+
+
+5 . Design
+
+Färgval
+Kontraster för ökad läsbarhet
+Tänker på färgseende/färgblinhet i sina val
+
+
+6 . Text
+
+Läsbarhet
+Teckensnitt
+Radlängd
+Storlek
+Placering
+Tydlighet
+Visa att du kan placera innehållet medvetet

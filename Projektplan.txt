@@ -1,0 +1,20 @@
+Jag ska skapa en hemsida till en fotvårdare och vill anpassa sidan till fotvårdarens primära kundkrets: äldre som inte längre kan ta hand om sina fötter. Den sekundära målgruppen för hemsidan är de äldres barn. Medelålders män och kvinnor som hjälper sina föräldrar boka tid.
+
+Jag vill skapa en seriös sida med enkla bokningsmöjligheter. Så få klick som möjligt för den äldre.
+
+Jag kommer använda pastelliga färger som är lugna och inte för skrikiga, men ändå markera de viktigaste knapparna med lite mörkare färger så de blir enkla att se för den äldre.
+
+Äldre kanske inte alltid äger en dator, så jag vill göra hemsidan mobilvänlig då det är det deras barn har med sig jämt.
+
+
+
+
+På indexsidan ska det finnas knappar som leder till att fotvårdarens telefonnummer direkt ploppar upp i kundens telefon så det bara är att trycka på ring. (Det är så fotvårdaren vill att kunderna bokar) Då kan kunden snabbt och enkelt boka sin tid.
+
+Sen ska det finnas en flik som heter Om Mig där man, om man vill, kan läsa om fotvårdaren.
+
+En flik ska vara om fotvårdarens olika behandlingar och priser på de
+
+En flik ska heta Hitta hit
+
+En flik om olika produkter hon säljer på plats.
