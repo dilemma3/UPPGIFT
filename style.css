@@ -16,6 +16,7 @@ nav {
     margin-right: auto;
     font-family: playfair display, sans-serif;
     font-weight: bold;
+    box-shadow: 0 2px 15px#02380d;
 }
 
 nav ul {
@@ -30,8 +31,8 @@ nav li {
 
 nav a{
     text-decoration: none;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 nav a:hover {
@@ -63,8 +64,6 @@ footer {
     background-color: #b2ecbf;
 }
 
-
-
 /* Index-sidan */
 button {
     cursor: pointer;
@@ -72,7 +71,7 @@ button {
     border: none;
     padding: 1vw 2vw;
     border-radius: 8em;
-    box-shadow: 0 5px 15px #193047;
+    box-shadow: 0 5px 15px #02380d;
     margin: 15px 10px;
     font-size: 1.5vw;
 }
@@ -117,22 +116,14 @@ table .treat {
     width: 50%;
    }
 
-   nav {
-    width: 90%;
-   }
-
    nav ul {
-    text-align: center;
+    text-align: left;
+    padding-right: 15px;
    }
 
     nav li {
-        font-size: 3vw;
+        font-size: 4vw;
     }
-
-    nav a{
-        margin-left: 5px;
-        margin-right: 5px;
-    } 
 
     .txt {
         font-size: 3vw;
@@ -229,7 +220,7 @@ table .treat {
         width: 80%;
         margin-left: auto;
         margin-right: auto;
-    }
+    } 
 
     h2 {
         font-size: 3.8vw;
