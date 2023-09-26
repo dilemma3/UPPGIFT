@@ -118,9 +118,9 @@ table .treat {
     width: 50%;
    }
 
-   nav [
+   nav {
     width: 90%;
-   ]
+   }
 
    nav ul {
     text-align: center;
