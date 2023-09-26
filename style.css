@@ -112,11 +112,15 @@ table .treat {
     margin-top: 5%;
 }
 
-
+/* ENHETSANPASSNING */
 @media only screen and (max-width: 414px) {
    .logo {
     width: 50%;
    }
+
+   nav [
+    width: 90%;
+   ]
 
    nav ul {
     text-align: center;
@@ -124,6 +128,11 @@ table .treat {
 
     nav li {
         font-size: 4vw;
+    }
+
+    nav a {
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     .txt {
@@ -205,8 +214,7 @@ table .treat {
     }
 
     nav li {
-        font-size: 3.2vw;
-        
+        font-size: 3.2vw; 
     }
 
     nav a{
